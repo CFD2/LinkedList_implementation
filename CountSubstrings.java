@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * Created by Vadim Yastrebov 100908473 on 17/7/17.
+  * @author Vadim Yastrebov on 17/7/17.
  */
 public class CountSubstrings {
     public static void main(String[] args) throws FileNotFoundException {
